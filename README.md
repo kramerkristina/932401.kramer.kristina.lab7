@@ -71,8 +71,9 @@ DELETE /api/comments/1  -> 404 {"error":"Комментарий не найде�
 
 **Все комментарии** (новые сверху):
 
-![Все комментарии](screenshots/all-comments.png)
+<img width="570" height="484" alt="image" src="https://github.com/user-attachments/assets/78cfb27d-8676-4885-8eb9-074ea34ad3d7" />
+
 
 **Только к посту 5** ( `?post_id=5` ):
 
-![Комментарии к посту 5](screenshots/filtered-comments.png)
+<img width="585" height="355" alt="image" src="https://github.com/user-attachments/assets/b792d0a3-a2c0-443f-b7f4-5892ebadd685" />
