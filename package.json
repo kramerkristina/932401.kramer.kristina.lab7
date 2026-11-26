@@ -1,0 +1,13 @@
+{
+  "name": "932401.kramer.kristina.lab7",
+  "version": "1.0.0",
+  "description": "Лабораторная работа №7. Работа с базой данных SQLite и CRUD-операции (Вариант 6)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.1",
+    "sqlite3": "^5.1.7"
+  }
+}
